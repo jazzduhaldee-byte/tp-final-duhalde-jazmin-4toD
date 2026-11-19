@@ -40,10 +40,11 @@ main, aside{
 
 main {
     width: calc(80% - 20px); 
+     background: #f5cccc;
 
 aside {
     width: calc(20% - 20px); 
-    background: #f5cccc;
+   
 }
 
 section {
@@ -65,12 +66,12 @@ article img {
 footer {
     text-align: center;
     font-size: 0.9em;
-    color: #5ee4fc;
+    background-color: #5ee4fc;
 }
 
 h2{
-    font-size: 
-     color: coral;
-     
+
+    color:
+
 
 }
